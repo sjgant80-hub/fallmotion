@@ -1,6 +1,6 @@
 # FallMotion
 
-Sovereign motion graphics in a single HTML file. The After Effects-lite of the FallStudio suite (phase 2). Prime **463** · v1.0.0 · MIT.
+Sovereign motion graphics in a single HTML file. The After Effects-lite of the FallStudio suite (phase 2). Prime **1447** · v1.0.0 · MIT.
 
 One file. Zero dependencies. Works from `file://`. No build step. No telemetry. Your scene never leaves the device.
 
@@ -88,7 +88,7 @@ To extend templates: add a branch in `Templates.apply`.
 [x] 8 L6 SKIN · mobile-aware · estate dark palette · brass accent
 [x] 9 L7 ASS · empty state nudges to add a layer · no wizard
 [x] 10 Konomi licence shim baked
-[x] 11 fallmesh BroadcastChannel · prime 463
+[x] 11 fallmesh BroadcastChannel · prime 1447
 [x] 12 PWA manifest data: URL
 [x] 13 README two-audience · MIT LICENSE
 [x] 14 .nojekyll for Pages legacy
